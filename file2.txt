@@ -1,0 +1,941 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<HTML><HEAD><TITLE>Jugando con fuego (19) por Tanatos12 - TodoRelatos</TITLE>
+<!-- Google Tag Manager -->
+<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':
+new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],
+j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src=
+'https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);
+})(window,document,'script','dataLayer','GTM-56P8SDH');</script>
+<!-- End Google Tag Manager -->
+<META http-equiv=Content-Type content="text/html; charset=windows-1252">
+<META content="Continúa la historia." name=Description>
+<META content="Jugando, fuego, Hetero: Infidelidad, relatos, eroticos" name=Keywords>
+<META content="NOARCHIVE" name="ROBOTS">
+<META content="NOARCHIVE" name="GOOGLEBOT">
+
+<link rel="apple-touch-icon" href="https://movil.todorelatos.com/m/touch-icon-iphone.png">
+<link rel="apple-touch-icon" sizes="72x72" href="https://movil.todorelatos.com/m/touch-icon-ipad.png">
+<link rel="apple-touch-icon" sizes="114x114" href="https://movil.todorelatos.com/m/touch-icon-iphone4.png">
+<link rel=stylesheet type=text/css href=/todorelatos20140224.css>
+<link rel="SHORTCUT ICON" href="/todorelatos.ico">
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-174762-3']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+<meta name="xsearch-verification" content="77429baa27f0f04a488a35a5a36f42df"/>
+<script type="text/javascript">
+function createCookie(name,value,days)
+{
+	if (days)
+	{
+	var date = new Date();
+	date.setTime(date.getTime()+(days*24*60*60*1000));
+	var expires = "; expires="+date.toGMTString();
+	}
+	else
+	{
+	var expires = "";
+	}
+document.cookie = name+"="+encodeURIComponent(value)+expires+"; path=/; domain=.todorelatos.com";
+}
+
+function infocookie_close()
+{
+createCookie('infocookie','1',3650);
+return true;
+}
+</script>
+
+</HEAD>
+<BODY style="BACKGROUND-IMAGE: url('/images/header-bg-ads.gif'); BACKGROUND-REPEAT: repeat-x" text="#666666" bgColor="#f6f6f6" leftMargin=0 topMargin=0 marginwidth="0" marginheight="0"><a name=top></a>
+<!-- Google Tag Manager (noscript) -->
+<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=GTM-56P8SDH"
+height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>
+<!-- End Google Tag Manager (noscript) -->
+<script>
+dataLayer = [{
+'var1':'desktop','var2':'','var3':'','var4':'0','var5':'','var6':'','var7':'','var8':'','var9':'','var10':'0','var11':'','var12':'','var19':'','var20':'',
+}];
+</script>
+<div id="infocookie">
+<img src="/info-icon.png" width="16" height="16" hspace="3">Utilizamos cookies propias y de terceros para prestar nuestros servicios y mostrar publicidad relacionada con sus preferencias.<br />Si continua navegando, consideramos que acepta su uso. Puede obtener m&aacute;s informaci&oacute;n, o bien conocer c&oacute;mo cambiar la configuraci&oacute;n, en nuestra <a rel="nofollow" href="http://www.lwnetwork.com/lwnet/cookies.php?ident=todorelatos.com" id="infocookie_link">Pol&iacute;tica de cookies</a>. <a href="#" onclick="infocookie_close(); parentNode.remove();" title="Cerrar y aceptar aviso" id="infocookie_close"></a>
+</div>
+<center>
+<DIV align=center class=maintable>
+<TABLE cellSpacing=0 cellPadding=0 border=0 class=maintable>
+  <TBODY>
+  <TR bgColor="#4e5a78">
+    <TD align=left width=271 bgColor="#bcbcbc" height=76><a href="/"><IMG height=76 src="/images/logo1.gif" width=271 border=0></a></TD>
+    <TD width=8 background="/images/header-bg-ads2.gif" bgColor="#bcbcbc"><IMG height=76 src="/images/clear.gif" width=8></TD>
+    <TD align=right width="100%" background="/images/header-bg-ads2.gif" bgColor=#bcbcbc>
+          <table border="1" cellspacing="0" cellpadding="0" bordercolor="#808080">
+			<tr>
+				<td>
+<SCRIPT language="JavaScript">
+<!--
+var sdsubmit=1
+function check(){
+
+if (sdsubmit){
+
+if (document.login.usuario.value == "" || document.login.clave.value == "")
+{
+	mesg1 = "\nDebe incluir su nombre de Usuario y Contraseña\n"
+	alert(mesg1);
+	document.login.usuario.focus( );
+	return false;
+   }
+
+	document.login.lb.value = "      Iniciando...      "
+	document.login.lb.disabled = true
+	document.login.lb.blur()
+	sdsubmit=0
+
+}
+else {return false}
+
+}
+//-->
+</script>
+<div align="right">
+					<table border="0" cellspacing="0" bgcolor="#F6F6F6" bordercolor="#808080" cellpadding="2">
+					<form method=post action=/logcheck.php onSubmit="return check()" name=login>
+					<input id="redir" type="hidden" value="" name="redir">
+					<input id="redir0" type="hidden" value="/relato/136379/" name="redir0">
+						<tr>
+							<td align="right"><span class=smaller>Usuario: </span>
+							</td>
+							<td>
+          <input class="field" id="usuario" size="19" name="usuario"></td>
+							<td align="center" ></td>
+						</tr>
+						<tr>
+							<td align="right" style="border-bottom-style: solid; border-bottom-width: 1px">
+          <span class=smaller>&nbsp;Contraseña:</span></td>
+							<td style="border-bottom-style: solid; border-bottom-width: 1px">
+          <input class="field" id="clave" type="password" size="19" value name="clave"></td>
+							<td style="border-bottom-style: solid; border-bottom-width: 1px">
+          <input class="boton" name=lb type="submit" value="     Iniciar Sesión     " name="submit"></td>
+						</tr>
+						<tr>
+							<td align="right" colspan="3" style="border-top-style: solid; border-top-width: 1px" bgcolor="#FFFFFF">
+							<table border="0" width="100%" cellspacing="0" cellpadding="0">
+								<tr>
+									<td align="left">
+                      <font size="1">
+                      &nbsp;<IMG height=7 src="/images/bullet_minisquare2.gif" width=8 border=0></font><span class="small"><b><a href="/registro/">CREAR CUENTA</a> </b>&nbsp;</span><font size="1"><IMG height=7 src="/images/bullet_minisquare2.gif" width=8 border=0></font><span class="small"><a href="/recordar_clave/">Recordar Clave</a>&nbsp; </span></td>
+									<td align="right">
+                      <font size="1">
+                      <IMG height=7 src="/images/bullet_minisquare2.gif" width=8 border=0></font><span class="small"><a href="/ayuda/">Ayuda</a></span></td>
+								</tr>
+							</table>
+							</td>
+						</tr>
+						</form>
+					</table>
+				</div>
+
+				</td>
+			</tr>
+			</table>
+    </TD></TR></TBODY></TABLE>
+<DIV align=center>
+<CENTER>
+<TABLE id=AutoNumber2 style="BORDER-COLLAPSE: collapse" borderColor=#111111
+cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD width="100%" bgcolor="#f6f6f6">
+    <IMG height=3 src="/images/clear.gif" width=3 border=0></TD></TR></TBODY></TABLE></CENTER></DIV>
+    <!-- C1 -->
+<!-- C1 -->
+
+<TABLE cellSpacing=0 cellPadding=0 border=0 width=100%>
+  <TBODY>
+  <TR>
+    <TD class=table-border width=1><IMG height=1 src="/images/clear.gif" width=1></TD>
+    <TD vAlign=top align=middle bgColor=#ffffff width=100%><!-- T1 -->
+
+      <DIV align=center>
+      <CENTER>
+      <TABLE id=AutoNumber3 style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0 cellPadding=2 width="100%" bgColor=#666666 border=0>
+        <TBODY>
+        <TR>
+          <TD class=bright align="left"><NOBR><SPAN class=smaller>&nbsp;<b>6.320</b> Usuarios Conectados [ <a target="_blank" href="https://www.todorelatos.com/redir.php?t=contactos.reg"><font color="#fffdd5">Contactos</font></a> ] [ <a target="_blank" href="https://comunidad.todorelatos.com"><font color="#fffdd5">Comunidad de Cams</font></a> ] [ <a target="_blank" href="https://twitter.com/todorelatos"><font color="#fffdd5">Twitter TodoRelatos</font><img style="margin-left:3px;" src="/images/twitter-16.png" width="8" height="8"></a> ]</NOBR></TD>
+          <TD class=bright align=right><NOBR><SPAN class=smaller>&nbsp;<B>1.458.545</B>
+            Miembros | <B>20.034</B> Autores | <b>103.260</b>
+			Relatos&nbsp; </SPAN></NOBR></TD></TR>
+          </TBODY></TABLE></CENTER></DIV>
+<!-- /T1 -->
+
+      <DIV align=center>
+      <CENTER>
+      <TABLE id=AutoNumber5 style="BORDER-COLLAPSE: collapse"
+      borderColor=#111111 cellSpacing=0 cellPadding=0 width="100%" border=0>
+        <TBODY>
+        <TR>
+          <TD width="100%"><IMG height=12 src="/images/clear.gif" width=6 border=0></TD></TR></TBODY></TABLE></CENTER></DIV>
+      <DIV align=center>
+      <CENTER>
+      <TABLE id=AutoNumber1 style="BORDER-COLLAPSE: collapse"
+      borderColor=#111111 cellSpacing=0 cellPadding=0 width="100%" border=0  class=maintable>
+        <TBODY>
+        <TR>
+          <TD vAlign=top align=middle width=100%>
+<!--CENTRO-->
+
+          <div align="center">
+            <table border="0" cellpadding="0" style="border-color:#C0C0C0; border-collapse: collapse" bordercolor="#d2d2d2" width="98%" id="AutoNumber14" class=tcentro1>
+              <tr>
+                <td width="100%" bordercolor="#666666">
+
+
+
+          <!--NAVEGADOR-->
+                  <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#F6F6F6" width="100%" id="AutoNumber16" class=tabla-news1 cellpadding="3">
+                    <tr>
+                      <td class=t-small  align="center" width="17%" nowrap>
+                      <font size="3"><a href="/novedades/">NOVEDADES</a></font></td>
+                      <td class=t-small  align="center" width="17%" nowrap>
+                      <font size="3"><a href="/categorias/">CATEGORÍAS</a></font></td>
+                      <td class=t-small  align="center" width="17%" nowrap>
+                      <font size="3"><a href="/top100/">TOP100</a></font></td>
+                      <td class=t-small  align="center" width="17%" nowrap>
+                      <font size="3"><a href="/lista_autores/">AUTORES</a></font></td>
+                      <td class=t-small  align="center" width="16%" nowrap>
+                      <font size="3"><a href="/buscador_relatos/">BUSCADOR</a></font></td>
+                      </tr>
+                    <tr>
+                      <td bgcolor="#e4dbdc" colspan="5">
+                      <img border="0" src="/images/clear.gif" width="1" height="1"></td>
+                      </tr>
+                    <tr>
+                      <td bgcolor="#FFF9F3" colspan="5" align="left">
+						<table border="0" width="100%" cellspacing="0" cellpadding="0">
+							<tr>
+								<td nowrap><span class=smaller><IMG height=7 src=/images/bullet_minisquare2.gif width=8 border=0><a href=/>TODORELATOS</a> » <a href=/categorias/12/>HETERO: INFIDELIDAD</a> » <b>JUGANDO CON FUEGO (19)</b></span></td>
+								<td align="right"><form action=/buscador_relatos/?r=1 method=post class=form name=buscador>[ <a href="/buscador_relatos/"><strong>+</strong></a> ]&nbsp;<input class="field" type="text" name="q" value=""/ size="25"><input type="hidden" name="sm" value="1"/><input class="boton" type="submit" value="Buscar" /></form></td>
+							</tr>
+						</table>
+						</td>
+                      </tr>
+                    </table>
+          <!--/NAVEGADOR-->
+
+
+                </td>
+              </tr>
+            </table>
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber17">
+              <tr>
+                <td width="100%">
+          <img border="0" src="/images/clear.gif" width="6" height="6"></td>
+              </tr>
+            </table>
+          	<table border="0" cellpadding="0" style="border-color:#C0C0C0; border-collapse: collapse" bordercolor="#d2d2d2" width="98%" id="AutoNumber14" class=tcentro1>
+              <tr>
+                <td width="100%" bordercolor="#666666">
+
+
+
+
+
+          <!--NAVEGADOR-->
+                  <table border="1" cellspacing="0" style="border-collapse: collapse" bordercolor="#F6F6F6" width="100%" id="AutoNumber16" class=tabla-news1 cellpadding="3">
+                    <tr>
+                      <td class=t-small align="center" width="20%" nowrap >
+                      <a href="/sexo/">
+						<img border="0" src="/images/header_cam.png" width="33" height="30"><br>
+						<font size="2">ZONA SEXO</font></a></td>
+                      <td class=t-small align="center" width="20%" nowrap>
+                      <a target="_blank" href="/redir.php?t=contactos.reg">
+                      <img border="0" src="/images/header_contactos.gif" width="35" height="30"><br>
+						<font size="2">
+						CONTACTOS</font></a></td>
+                      <!--<td class=t-small align="center" width="20%" nowrap>
+                      <a href="http://tienda.todorelatos.com">
+						<img border="0" src="/images/header_sexshop.gif" width="38" height="30"><br>
+						<font size="2">
+						SEXSHOP</font></a></td>-->
+                      <td class=t-small align="center" width="20%" nowrap >
+                      <a target="_blank" href="http://comunidad.todorelatos.com"><img border="0" src="/images/header_amateur.gif" width="32" height="30"><br>
+						<font size="2">CAMS TODORELATOS</font></a></td>
+                      <!--<td class=t-small align="center" width="20%" nowrap >
+                      <a href="/videos/"><img border="0" src="/images/header_videos.png" width="32" height="30"><br>
+						<font size="2">VIDEOS X</font></a></td>-->
+                      <!--<td class=t-small align="center" width="16%" nowrap >
+                      <a href="/relatos_hablados/"><img border="0" src="/images/header_relatos_hablados.png" width="30" height="30"><br>
+						<font size="2">RELATOS HABLADOS</font></a></td>-->
+                      </tr>
+                    <tr>
+                      <td bgcolor="#e4dbdc" colspan="6">
+                      <img border="0" src="/images/clear.gif" width="1" height="1"></td>
+                      </tr>
+                    </table>
+                  <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber16" class=tabla-news1 cellpadding="0">
+                    <tr>
+                      <td class=t-smaller align="center" width="100%">
+                      <img src="/images/clear.gif" border="0" width="1" height="1"></td>
+                    </tr>
+                    <tr>
+                      <td class=t-smaller align="center" width="100%" bgcolor="#FFFFCC">
+                      <span class="desc1">                  <table border="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber16" class=tabla-news1 cellpadding="0">
+                    <tr>
+                      <td class=t-smaller align="center" width="100%" bgcolor="#FFFFCC">
+                      <span class="desc1">
+                      <a target="_blank" href="https://www.ashleymadison.com/embrace/A18899"><img src="https://static-cdn.ashleyrnadison.com/affiliate_banners/international/Spain/960x80/20130620105723960x80_javilerin.jpg" height="76" width="920" alt="Ashley Madison - Ten una aventura. Infidelidad"/></a>
+                      </span></td>
+                    </tr>
+                  </table></span></td>
+                    </tr>
+                    <tr>
+                      <td class=t-smaller align="center" width="100%">
+                      <img src="/images/clear.gif" border="0" width="1" height="1"></td>
+                    </tr>
+                  </table>
+          <!--/NAVEGADOR-->
+
+
+                </td>
+              </tr>
+            </table>
+            <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber17">
+              <tr>
+                <td width="100%">
+          <img border="0" src="/images/clear.gif" width="6" height="6"></td>
+              </tr>
+            </table>
+          </div>
+
+
+
+          <div align="center">
+            <center>
+            <table border="0" cellpadding="4" style="border-color:#c0c0c0; border-collapse: collapse" bordercolor="#c0c0c0" width="98%" id="AutoNumber14" class=tcentro1>
+              <tr>
+                <td width="100%"><!--INICIO CENTRO-->
+                  <TABLE class=tabla-news1 id=AutoNumber16 style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0 cellPadding=2 width="100%" border=0>
+                    <TBODY>
+                    <TR>
+                      <TD class=tabla-news1-texto colSpan=2>
+
+<!--RELATOS-->
+<DIV align=center>
+<CENTER>
+<TABLE class=tabla-news1-texto id=AutoNumber19 style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0 cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <tr>
+    <TD bgColor=#f7f7f7 width="20%" class=head1><nobr>Fecha: <b>27-Ago-17</b></nobr></TD>
+    <TD bgColor=#f7f7f7 width="80%" align="right" class=head1><nobr><a href=/relato/136379/?m=anterior>« Anterior</a> | <a href=/relato/136379/?m=siguiente>Siguiente »</a> en
+	<b> <a href="/categorias/12/">Hetero: Infidelidad</a></b></nobr></TD>
+  </tr>
+  <tr>
+    <TD bgColor=#FFFFFF width="100%" align="center" colspan="2">
+    <img src="/images/clear.gif" width="6" height="6"></TD>
+  </tr>
+  <TR>
+    <TD width="100%" colspan="2">
+
+<!--RELATO-->
+
+
+<script type="text/javascript">
+  window.___gcfg = {lang: 'es'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+
+<script language="JavaScript">
+<!-- Begin
+    function Ver(url, name) {
+      window.open(url, name, 'scrollbars=1,resizable=yes,width=500,height=350,status=0,menubar=0');
+    }
+
+function changeBackground(hexNumber) {
+        document.getElementById("trtabla").bgColor = hexNumber;
+}
+// End -->
+</script>
+<script type="text/javascript">
+var max = 26
+var min = 10
+function upSize() {
+size = parseInt(document.getElementById("relato").style.fontSize)
+if (size != max) {
+size = size + 2
+}
+document.getElementById("relato").style.fontSize = size + "px"
+}
+function downSize() {
+size = parseInt(document.getElementById("relato").style.fontSize)
+if (size != min) {
+size = size - 2
+}
+document.getElementById("relato").style.fontSize = size + "px"
+}
+</script>
+
+<table class=tabla-news1-texto cellSpacing="0" cellPadding="4" border="0" width=100%>
+<tr><td bgColor=#e1e1e1 width="100%" class="bordeupdown">
+  <p align="center"><span class=titulo>Jugando con fuego (19)</span></td>
+  </tr>
+<tr>
+  <td bgColor=#fdfdfd width="100%" align="center" class="bordedown">
+  <span class=autor><b><a href=/perfil/1452591/>Tanatos12</a></b><SCRIPT TYPE="text/javascript">
+<!--
+emailE=('tanatos130' + '@hotmail.com')
+document.write('<img border=0 src=/images/tricon_miniemail.gif hspace=4 width=15 height=11>(<b><A href="mailto:' + emailE + '">' + emailE + '</a></b>)')
+//-->
+</script></span></td>
+  </tr>
+<tr><td bgColor=#fdfdfd width="100%" align="right" class="bordedown">
+  <div align="center">
+    <center>
+    <table class=tabla-news1-texto border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber21">
+      <tr>
+        <td width="100%" align="left">
+  <img border="0" src="/images/bullet_minisquare2.gif" width="8" height="7">Accesos: <b>
+  17.100<br>
+  </b>
+  <img border="0" src="/images/bullet_minisquare2.gif" width="8" height="7">Valoración
+  media: <a href="/valoracion/136379/"><img border=0 title='Valoración Media: 9.12
+Núm. Valoraciones: 25' src=/images/rating/rating_5.gif width=55 height=12></a><b><br>
+  </b>
+  <img border="0" src="/images/bullet_minisquare2.gif" width="8" height="7">Tiempo
+  estimado de lectura: [ <b>24 min.</b> ]</td>
+        <td valign="top">
+  <div align="right">
+    <table class=tabla-custom border="1" cellpadding="0" cellspacing="1" style="border-collapse: collapse;" bordercolor="#C0C0C0" id="AutoNumber20">
+      <tr>
+        <td onclick="downSize()" bgcolor="#F1F1F1" align="center" nowrap style="cursor:hand; cursor:pointer;">
+        &nbsp;<b><font color="#808080">-</font></b>&nbsp;</td>
+        <td onclick="upSize()" bgcolor="#F1F1F1" align="center" nowrap style="cursor:hand; cursor:pointer;">
+        &nbsp;<font color="#808080"><b>+</b></font>&nbsp;</div></td>
+        <td onclick="changeBackground('#E7ECF1')" bgcolor="#E7ECF1" align="center" style="cursor:hand; cursor:pointer;">
+        <img border="0" src="/images/clear.gif" width="22" height="16"></td>
+        <td onclick="changeBackground('#f0f0f0')" bgcolor="#f0f0f0" align="center" style="cursor:hand; cursor:pointer;">
+        <img border="0" src="/images/clear.gif" width="22" height="16"></td>
+        <td onclick="changeBackground('#FEF5F5')" bgcolor="#FEF5F5" align="center" style="cursor:hand; cursor:pointer;">
+        <img border="0" src="/images/clear.gif" width="22" height="16"></td>
+        <td onclick="changeBackground('#FFFFFF')" bgcolor="#FFFFFF" align="center" style="cursor:hand; cursor:pointer;">
+        <img border="0" src="/images/clear.gif" width="22" height="16"></td>
+      </tr>
+    </table>
+  </div>
+        </td>
+      </tr>
+    </table>
+    </center>
+  </div>
+  </td>
+  </tr>
+</table>
+<div align="center">
+  <center>
+  <table class=tabla-news1-texto border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber4">
+    <tr>
+      <td width="100%">
+      <img border="0" src="/images/clear.gif" width="1" height="2"></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<table class=tabla-news1-texto cellSpacing="0" cellPadding="4" border="0" width=100%>
+<tr>
+  <td bgColor=#f8f8f8 align="center" width="90%" class="bordedown">Continúa la historia.</td>
+  <td bgColor=#f8f8f8 align="center" nowrap class="bordedown">
+  <a rel="nofollow" target="_blank" href="/imprimir/136379/">
+  <img border="0" src="/images/tricon_impresora.gif" alt="Version para imprimir" hspace="5" width="32" height="32"></a><a onclick="Ver('https://www.todorelatos.com/enviar.email.php?id=136379&titulo=Jugando+con+fuego+%2819%29')" href="#enviar"><img border="0" src="/images/tricon_email.gif" alt="Enviar este relato a un amigo/a" hspace="5" width="32" height="32"></a></td>
+  </tr>
+</table>
+              <div align="center">
+                <center>
+                <table border="0" cellpadding="8" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber23">
+                  <tr>
+                    <td width="100%" id="trtabla" align="left">
+<div class=relato id=relato style="font-size:14px; word-break: break-word; word-wrap: break-word; "><div style="margin:10px; float:right";>
+<a target="_blank" href="https://www.ashleymadison.com/embrace/A18899"><img src="https://static-cdn.ashleyrnadison.com/affiliate_banners/international/Spain/300x250/20130620105647AM_necking_300x250_anim.gif" alt="Ashley Madison - Ten una aventura. Infidelidad."/></a>
+</div><!--email_off-->
+<p style="text-align: justify;">Uno nunca sabe como puede reaccionar a recibir un mensaje as&iacute;. En un primer momento me vi escribi&eacute;ndole que me mandara capturas, pantallazos de aquello. Lo curioso era que casi lo daba por veraz, pero quer&iacute;a verlo. Sin embargo acab&eacute; por borrarlo sin haberlo llegado a enviar. Como si pedirle las capturas fuera irme completamente a su bando y dejar a Mar&iacute;a sola. Era absurdo. Tremendamente absurdo, pero lo sent&iacute; as&iacute;. De todas formas nunca se me ir&iacute;a de la cabeza que aquella especie de conversaci&oacute;n subida de tono por m&oacute;vil hab&iacute;a existido, convirti&eacute;ndose en algo desconcertante, morboso... que me tendr&iacute;a inevitablemente inquieto aunque quisiera negarlo.</p>
+<p style="text-align: justify;">Por otro lado me sent&iacute; bien, sent&iacute; que hab&iacute;a recuperado algo de control: yo decid&iacute;a no ir a su casa y no &iacute;bamos a su casa y &eacute;l se cabreaba. Era un control bastante enga&ntilde;oso porque &eacute;l podr&iacute;a hacer saltar todo por los aires cuando quisiera, y mi actitud quiz&aacute;s le empujara a ello, pero al menos era la primera vez que un acto m&iacute;o le ocasionaba un contratiempo y no al rev&eacute;s. A veces pensaba que Edu era mi aliado y mi enemigo a la vez, cosa pr&aacute;cticamente imposible de gestionar.</p>
+<p style="text-align: justify;">Aquella tarde de viernes Mar&iacute;a volvi&oacute; a quedar con Paula para seguir buscando ropa para la boda para la que aun quedaba m&aacute;s de un mes, y me dijo que por la noche iba a quedar adem&aacute;s con Amparo y dos abogados nuevos que ven&iacute;an de la misma firma pero del despacho de Madrid, un hombre y una mujer. Yo sent&iacute;a un especial v&iacute;nculo con Mar&iacute;a cada vez que nos pasaba algo con Edu. Como si vivi&eacute;ramos un conflicto emocional por todo lo que Edu implicaba y cada vez que algo estallaba, las horas y d&iacute;as siguientes nos uni&eacute;ramos m&aacute;s, nos quisi&eacute;ramos m&aacute;s. Sent&iacute;a que sin haberle llegado a confesar que hab&iacute;a llegado a temer porque se colgase de &eacute;l, ella, por su tono y lo que hab&iacute;a dicho tras su especie de sexo telef&oacute;nico con Edu, me hab&iacute;a dicho sin necesidad de dec&iacute;rmelo que todo era una chorrada, un juego, un entretenimiento. Por lo que cre&iacute; plenamente que no estaba colgado de &eacute;l sin necesidad de pregunt&aacute;rselo.</p>
+<p style="text-align: justify;">Lleg&oacute; esa noche de viernes y fui a buscar a Mar&iacute;a que estaba tomando unas cervezas con toda esa gente del despacho. A Amparo ya la conoc&iacute;a, una chica totalmente inexpresiva y que pasaba desapercibida, de la que no se le conoc&iacute;an novios ni l&iacute;os, ni de la que me llegaba nunca ning&uacute;n cotilleo, ten&iacute;a mi edad y hasta en lo f&iacute;sico era realmente irrelevante, ni fea ni guapa y nunca dec&iacute;a una palabra m&aacute;s alta que la otra. Estaba tambi&eacute;n Paula, que seg&uacute;n el d&iacute;a no me parec&iacute;a nada guapa o me resultaba incluso bastante atractiva, de tez clara y pelo negro y rizado hasta la altura de los hombros m&aacute;s o menos, bastante delgada y ligeramente alta, con una boca grande y una amplia sonrisa y una risa un poco histri&oacute;nica; a m&iacute; nunca me hab&iacute;a acabado de caer bien, pero era la mejor amiga de Mar&iacute;a, al menos en el despacho. Si a Amparo no se le conoc&iacute;an muchos l&iacute;os a Paula alguno, pero poca cosa y nada serio. Y, a parte de ellos tres estaba un tal &Aacute;ngel que ven&iacute;a de Madrid, delgado y con gafas, de unos cuarenta a&ntilde;os, y casado al parecer. Y una tal Patricia, tambi&eacute;n nueva, a la que le calcul&eacute; unos 36 o 37 a&ntilde;os, f&iacute;sicamente bastante corpulenta, pasaba del 1,70 y en tacones luc&iacute;a unas caderas generosas y unos pechos imponentes y un pelo casta&ntilde;o, un poco m&aacute;s oscuro que el de Mar&iacute;a. Despu&eacute;s me enter&eacute; que estaba divorciada, parec&iacute;a bastante abierta y simp&aacute;tica.</p>
+<p style="text-align: justify;">Me tom&eacute; una cerveza con ellos y me fui con Mar&iacute;a a casa y fue cuando me cont&oacute; un poco lo de que &Aacute;ngel estaba casado y Patricia divorciada y que empezaban el lunes y que Amparo los conoc&iacute;a, como parec&iacute;a conocer a todo el mundo, pues hasta era la que le hab&iacute;a presentado a Nati a Edu, cuando Nati no ten&iacute;a nada que ver en edad ni en nada con Amparo, pero nunca me hab&iacute;a molestado en preguntar qu&eacute; las un&iacute;a.</p>
+<p style="text-align: justify;">Llevaba una semana sin follar y pronto se lo hice saber a Mar&iacute;a en la cama. Nos empezamos a besar en la oscuridad de nuestro dormitorio, me tumb&eacute; sobre ella y explor&eacute; con mis manos su sexo que parec&iacute;a especialmente cerrado. Reconozco que estaba realmente cachondo por todo lo que segu&iacute;a viviendo y por aquella semana sin hacerlo, pero su cuerpo me daba se&ntilde;ales de que no estaba en la misma onda que yo. Tras unos minutos masturb&aacute;ndola mientras la besaba me dispuse a penetrarla y ella me pidi&oacute; que esperara. Su mano fue a mi polla que estaba todo lo preparada que no estaba su co&ntilde;o y me comenz&oacute; a pajear lentamente. Acab&eacute; por colocarme otra vez sobre ella y esta vez ella accedi&oacute;. Mi polla comenz&oacute; a entrar en su cuerpo, no sin dificultad, y una vez que me sent&iacute; totalmente dentro de su cuerpo comenc&eacute; un mete saca lento y para m&iacute; placentero, aunque ella se quejaba un poco. Poco a poco sus quejidos se fueron disipando y aument&eacute; el ritmo, ella apenas jadeaba y yo la besaba en el cuello y le resoplaba y le mord&iacute;a en el l&oacute;bulo de la oreja para hacerla sentir m&aacute;s.</p>
+<p style="text-align: justify;">Los minutos fueron pasando y ella pos&oacute; sus manos en mi culo, marc&aacute;ndome el ritmo de las metidas... Yo sent&iacute;a que ella no se implicaba del todo y llegu&eacute; a plantearme hablarle le Edu, pero en seguida lo descart&eacute;. Acab&eacute; por acelerar un poco y ella supo lo que yo buscaba y me susurr&oacute; en el o&iacute;do un suave y dulce "c&oacute;rrete..." que era lo poco que yo necesitaba para venirme dentro de ella entre lamentos entregados, sin cortarme demasiado, aun sabiendo que ella esta vez no se correr&iacute;a conmigo.</p>
+<p style="text-align: justify;">Al d&iacute;a siguiente fuimos a la playa y yo no paraba de pensar en que era el d&iacute;a en el que supuestamente tocaba ir a casa de Edu, al que, por cierto, yo no le hab&iacute;a respondido ni ten&iacute;a, al menos por ahora, intenci&oacute;n de responderle.</p>
+<p style="text-align: justify;">No estuve tentado de proponer ir a su casa, pero s&iacute; ten&iacute;a la sensaci&oacute;n de oportunidad perdida, ya que despu&eacute;s de tantos meses hab&iacute;a sido yo el que hab&iacute;a echado para atr&aacute;s aquello, por temor a perder a Mar&iacute;a, cuando aquel temor hab&iacute;a sido en cierto modo fugaz, pues me encontraba de nuevo con la plena sensaci&oacute;n de que aquello de Edu era un juego morboso sin demasiado peligro emocional. Creo que al acabar ellos sus vacaciones, volver a la rutina y al no ir ella a su apartamento por semana me daba m&aacute;s tranquilidad en ese sentido. Como si en el despacho, de cervezas o de copas por el centro no hubiera el mismo peligro de cuelgue que de paseitos por la playa. Quiz&aacute;s no tuviera excesivo sentido, pero lo sent&iacute;a as&iacute;. De todas formas aquel d&iacute;a en la playa me preguntaba qu&eacute; pasar&iacute;a si al final le dijera a Mar&iacute;a que quer&iacute;a ir a casa de Edu. C&oacute;mo reaccionar&iacute;a ella. Qu&eacute; pasar&iacute;a entre Mar&iacute;a y Edu si fu&eacute;ramos. Yo intentaba ordenar mis ideas y cre&iacute;a que Edu le ten&iacute;a que poner a Mar&iacute;a, pero no la ve&iacute;a haciendo nada... o al menos nada muy grave con &eacute;l. Tambi&eacute;n pensaba si habr&iacute;an hecho algo m&aacute;s de lo que me hab&iacute;a contado, pero por un lado confiaba en ella y por otro ten&iacute;a la sensaci&oacute;n de que si hubieran cruzado alguna l&iacute;nea Edu no habr&iacute;a dudado en fanfarronear de ello casi inmediatamente.</p>
+<p style="text-align: justify;">Ese s&aacute;bado por la noche Mar&iacute;a, Amparo, Paula y Patricia quedaron para cenar y salir. Yo acerqu&eacute; en coche a Mar&iacute;a al restaurante y me llam&oacute; la atenci&oacute;n Patricia a la que vi m&aacute;s guapa que el d&iacute;a anterior, tambi&eacute;n m&aacute;s sugerente, con una falda y una camiseta de encaje sedosa que le hac&iacute;a un escote importante y adem&aacute;s sin disimular que hab&iacute;a mucho tras esa camiseta y el sujetador. No era mi estilo para nada, en tacones era de mi altura o incluso m&aacute;s alta, pero era innegable que era llamativa; ni por asomo le llegaba a Mar&iacute;a a la suela de los zapatos, pero era m&aacute;s guapa o al menos m&aacute;s estimulante y sin duda mucho m&aacute;s sexual que Paula y sobre todo que Amparo.</p>
+<p style="text-align: justify;">Yo no ten&iacute;a plan aquella noche y me fui a casa. En la tranquilidad de mi sof&aacute;, y con un programa de televisi&oacute;n de fondo, record&eacute; de nuevo que precisamente esa noche tendr&iacute;amos que estar en su apartamento de la playa, pero lo cierto era que estaba Mar&iacute;a saliendo con tres amigas y yo solo en casa. Del morbo absoluto a la ant&iacute;tesis por completo. Llegu&eacute; incluso a plantearme responderle a Edu... dud&eacute; qu&eacute; ponerle... pero no sab&iacute;a ni qu&eacute; decirle.</p>
+<p style="text-align: justify;">En la soledad de mi sal&oacute;n empec&eacute; a darle vueltas a todo lo que hab&iacute;a sucedido aquellos meses. En un primer momento record&eacute; lo cachonda que hab&iacute;a estado Mar&iacute;a en Cantabria y que aquello ten&iacute;a que obedecer a cosas sucedidas con Edu aquellos d&iacute;as en la playa. &iquest;De verdad no hab&iacute;a pasado nada m&aacute;s de lo que me hab&iacute;a contado? Era un "te creo y conf&iacute;o en ti" mezclado a la vez con un sentimiento de que ten&iacute;a que haber pasado algo m&aacute;s, omitido o suavizado. Aquello sin duda era una puerta que yo ten&iacute;a que reabrir.</p>
+<p style="text-align: justify;">Pero decid&iacute; centrarme en aquellas cosas s&iacute; confirmadas... todos aquellos episodios de Mar&iacute;a con Edu... Lo primero que record&eacute; fue aquello de Edu sob&aacute;ndole el culo en los ba&ntilde;os de un pub... Despu&eacute;s cuando le hab&iacute;a metido mano contra su coche, cuando le hab&iacute;a sobado los muslos en aquellas jornadas... cuando le hab&iacute;a dicho que se le marcaba el co&ntilde;o con el bikini blanco... Mar&iacute;a escuch&aacute;ndole follar con Alicia... Todo lo que me hab&iacute;a dicho Mar&iacute;a mientras foll&aacute;bamos... que quer&iacute;a una polla como la de Edu, que yo era un cornudo, que deseaba que Edu se la follase... que ella se masturbara con el consolador imaginando su polla... cuando no me hab&iacute;a dejado acercarme para acabar ella su orgasmo pensando en &eacute;l... y, sobre todo, aquello que se hab&iacute;a escrito por tel&eacute;fono... me imaginaba que Mar&iacute;a recib&iacute;a la foto de la polla enorme de Edu... &iquest;qu&eacute; le habr&iacute;a respondido? Comenc&eacute; a masturbarme imagin&aacute;ndome que mientras yo le hab&iacute;a comido el co&ntilde;o hac&iacute;a dos d&iacute;as ella le hab&iacute;a escrito a Edu que le encantaba su polla... Edu le escrib&iacute;a si le gustar&iacute;a com&eacute;rsela y ella respond&iacute;a que s&iacute;... que le encantar&iacute;a chup&aacute;rsela... que Edu le dec&iacute;a si mi polla le llegaba y ella le dec&iacute;a que no... que necesitaba una buena polla como la suya... que &eacute;l le ped&iacute;a que ella le pidiese lo que quisiese y Mar&iacute;a le ped&iacute;a por favor que necesitaba su poll&oacute;n en su boca o en su co&ntilde;o pero la necesitaba ya...</p>
+<p style="text-align: justify;">Con todo eso en mi cabeza me hice una paja bestial. Y no tuve suficiente con una si no que comenc&eacute; a hacerme otra paja recordando cuando Edu la hab&iacute;a llevado en coche al picadero de al lado de casa y le hab&iacute;a apartado el pelo y ella le hab&iacute;a mirado la polla como se le hinchaba bajo el pantal&oacute;n del traje, y cuando en la playa &eacute;l se hab&iacute;a recolocado la polla mirando para ella... polla que ella presumiblemente hab&iacute;a visto en foto, en la pantalla de su m&oacute;vil, enorme e hinchada. Foto que, quiz&aacute;s... ella no hab&iacute;a borrado...</p>
+<p style="text-align: justify;">Tras aquellas dos pajas pasaban de la una de la madrugada y me fui a la cama. Le escrib&iacute; a Mar&iacute;a y me dijo que no cre&iacute;a que fuera a tardar mucho en volver.</p>
+<p style="text-align: justify;">A las tres y pico de la madrugada me sobre saltaron los tacones de Mar&iacute;a acerc&aacute;ndose por el pasillo. O&iacute; como entraba en el ba&ntilde;o y despu&eacute;s se acercaba a la cama. Susurr&eacute; un qu&eacute; tal y ella me respondi&oacute;:</p>
+<p style="text-align: justify;">-Estuvimos con Edu.</p>
+<p style="text-align: justify;">Ni que decir tiene mi sobresalto. Como si me desperezara inmediatamente. Hab&iacute;a algo en cuando ella pronunciaba su nombre que era superior a m&iacute;.</p>
+<p style="text-align: justify;">Ten&iacute;a los ojos vidriosos de haber bebido, pensaba que llegar&iacute;a m&aacute;s sobria por ser relativamente temprano, pero era m&aacute;s bien lo contrario.</p>
+<p style="text-align: justify;">Le pregunt&eacute; sin cortarme y, mientras se desnudaba, me contaba que a penas hab&iacute;a hablado con &eacute;l. Que Amparo le hab&iacute;a presentado a Patricia y que se hab&iacute;an enfrascado ya ellos dos solos a hablar. Que Edu se fue casi en seguida y que Patricia se hab&iacute;a puesto bastante pesada haciendo preguntas.</p>
+<p style="text-align: justify;">-&iquest;Qu&eacute; clase de preguntas?</p>
+<p style="text-align: justify;">-Pues... que qu&eacute; tal era... que si ten&iacute;a novia...</p>
+<p style="text-align: justify;">-&iquest;En serio? &iquest;Que si Edu ten&iacute;a novia?</p>
+<p style="text-align: justify;">-Si, ya ves... no pierde el tiempo. Bueno, ya viste con que pintas va.</p>
+<p style="text-align: justify;">-Qu&eacute; pintas... no le vi nada.</p>
+<p style="text-align: justify;">-Hombre, va con unas faldas... y por arriba... ya me dir&aacute;s.</p>
+<p style="text-align: justify;">-&iquest;Y le dijisteis que est&aacute; con Nati?</p>
+<p style="text-align: justify;">-Pues Amparo le dijo que ni sab&iacute;a ahora mismo si estaba con Nati o no.</p>
+<p style="text-align: justify;">Mar&iacute;a volvi&oacute; al ba&ntilde;o y sali&oacute; de all&iacute; con uno de sus camisones, esta vez uno rojo cereza que le quedaba espectacular. Yo encend&iacute; la luz de la lampara de al lado de cama mientras ella revisaba su m&oacute;vil y lo dejaba sobre la mesilla.</p>
+<p style="text-align: justify;">-&iquest;Y qu&eacute; m&aacute;s? -insist&iacute;.</p>
+<p style="text-align: justify;">-Pues nada... &iquest;sobre ella dices?</p>
+<p style="text-align: justify;">-S&iacute;, no s&eacute;.</p>
+<p style="text-align: justify;">-Pues despu&eacute;s pesad&iacute;sima con que quer&iacute;a cambiar de pub. Yo creo que quer&iacute;a ir a otro a ver si nos lo encontr&aacute;bamos otra vez.</p>
+<p style="text-align: justify;">A mi no me interesaba demasiado que a Patricia le gustase m&aacute;s o menos Edu, si no si hab&iacute;an cruzado miradas Mar&iacute;a y &eacute;l... o de que manera se hab&iacute;an saludado... o si le hab&iacute;a visto guapo... Mil cosas. Pero ninguna me parec&iacute;a que proced&iacute;a preguntarle despu&eacute;s de aquel "Se acab&oacute;. Hemos ido demasiado lejos. Se te ha ido de las manos a ti al principio y a m&iacute; ahora." que hab&iacute;a pronunciado ella hac&iacute;a 48 horas y se me hab&iacute;a quedado grabado en la mente. Lo que no esperaba era que tan pronto ella se meti&oacute; en la cama su boca fuera a la m&iacute;a, su lengua lamiera mis labios, su olor a alcohol invadiera mi cuerpo y me dijera: "&iquest;Quieres follarme hablando de Edu?".</p>
+<p style="text-align: justify;">++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++++</p>
+<p style="text-align: justify;">Aquello me cogi&oacute; desprevenido. Qui&eacute;n sabe la de veces que en seis meses hab&iacute;a deseado que fuera ella la que propusiera hablar de &eacute;l al follar, y hab&iacute;a salido as&iacute;, de repente. Adem&aacute;s tras haberme dicho hac&iacute;a dos d&iacute;as que el tema se cerraba por completo.</p>
+<p style="text-align: justify;">Su beso se hizo m&aacute;s c&aacute;lido y me obsequi&oacute; con un ronroneo al besarme. Sent&iacute;a sus besos especialmente h&uacute;medos y el olor a alcohol de su boca muy presente, como si no hubiera pasado demasiado tiempo desde que se hubiera tomado la &uacute;ltima copa. Yo estaba tan sorprendido como despejado y l&uacute;cido; me sent&iacute; con esa especie de sensaci&oacute;n de dominio de estar sobrio ante alguien algo bebido. Vi que era mi momento para sacarle cosas sobre Edu que en otro contexto no le podr&iacute;a sacar.</p>
+<p style="text-align: justify;">Le di la vuelta hasta que ella se qued&oacute; boca abajo. Flexion&oacute; las rodillas y pos&oacute; las manos en la cama quedando a cuatro patas sobre las s&aacute;banas y yo me puse tras ella. Recog&iacute; su camis&oacute;n un poco, lo justo para descubrir su culo, y aparecieron ante m&iacute; unas bragas negras que, a pesar de haberme hecho dos pajas no hac&iacute;a mucho, estaba deseando apartar.</p>
+<p style="text-align: justify;">El culo de Mar&iacute;a en aquella postura era para morirse, pero, al quitarle las bragas la imagen se hizo infinitamente m&aacute;s impactante, pues salieron a la luz dos labios gruesos que con las piernas casi juntas parec&iacute;an enormes... Su co&ntilde;o cuando ella estaba a cuatro patas con las piernas as&iacute; era tan brutalmente atrayente que dejaba sin respiraci&oacute;n. Pas&eacute; un dedo por entre sus labios y este se desliz&oacute; con una facilidad alucinante, nada que ver con su co&ntilde;o cerrado de hac&iacute;a dos noches.</p>
+<p style="text-align: justify;">-&iquest;C&oacute;mo vienes tan cachonda? -le susurr&eacute; mientras con una mano acariciaba sus nalgas y con la otra deslizaba un dedo por entre sus labios tiernos y h&uacute;medos.</p>
+<p style="text-align: justify;">-Mmm... no vengo cachonda... vengo... normal... -dijo girando un poco la cabeza.</p>
+<p style="text-align: justify;">-&iquest;Normal?</p>
+<p style="text-align: justify;">-Normal... con ganas... -susurr&oacute; ella apart&aacute;ndose el pelo de la cara y cerrando los ojos cada vez que mi dedo separa su co&ntilde;o con cuidado.</p>
+<p style="text-align: justify;">Retir&eacute; mi mano, bes&eacute; sus nalgas con ternura... y me apart&eacute; un poco, para ver como su co&ntilde;o sobresal&iacute;a de su cuerpo de aquella manera tan brutal. Me agarr&eacute; la polla con una mano y la sent&iacute; algo fl&aacute;cida para como deb&iacute;a estar al tener a Mar&iacute;a as&iacute;... Ech&eacute; la piel adelante y atr&aacute;s varias veces y le pregunt&eacute;:</p>
+<p style="text-align: justify;">-&iquest;Crees que Edu se follar&aacute; a Patricia?</p>
+<p style="text-align: justify;">-&iquest;Esta noche?</p>
+<p style="text-align: justify;">-No, &iquest;no os fuisteis todas para casa?</p>
+<p style="text-align: justify;">-S&iacute;.</p>
+<p style="text-align: justify;">-Pues... no s&eacute;, pronto, en las pr&oacute;ximas semanas.</p>
+<p style="text-align: justify;">-Si &eacute;l quiere... est&aacute; claro que por ella no hay problema...</p>
+<p style="text-align: justify;">-&iquest;No?</p>
+<p style="text-align: justify;">-Est&aacute; claro que no... Venga... Pablo... m&eacute;temela... -dijo girando su cabeza hacia adelante y bajando los codos, haciendo que su co&ntilde;o sobresaliese aun m&aacute;s.</p>
+<p style="text-align: justify;">Pos&eacute; mis dedos entre sus labios otra vez y los apart&eacute; sin problema, quedando su co&ntilde;o abierto, como con una forma de rombo. Incre&iacute;ble... De verdad que no pod&iacute;a creerme como ten&iacute;a Mar&iacute;a el co&ntilde;o aquella noche... Me segu&iacute; pajeando:</p>
+<p style="text-align: justify;">-Pues como se la folle... Ya ser&iacute;a Nati, el tonteo contigo... Patricia... la andaluza de las jornadas...</p>
+<p style="text-align: justify;">-Mmmm.... -gimote&oacute; al sentir de nuevo mi mano en su sexo- &iquest;Qu&eacute; andaluza? -pregunt&oacute;.</p>
+<p style="text-align: justify;">-La de las jornadas que o&iacute;ste como se la follaba.</p>
+<p style="text-align: justify;">-Ya... de las jornadas s&iacute;, pero eso de que era andaluza no s&eacute; de donde lo sacas... Vamos... f&oacute;llame ya...</p>
+<p style="text-align: justify;">Me qued&eacute; blanco del susto. Me acababa de descubrir a mi mismo, pero afortunadamente Mar&iacute;a no parec&iacute;a darle mayor importancia.</p>
+<p style="text-align: justify;">-&iquest;No era andaluza? Igual me lo invent&eacute;. -intent&eacute; salir del paso maldiciendo mi error.</p>
+<p style="text-align: justify;">-Vamos, Pablo... -insist&iacute;a con la cabeza agachada, ocultada entre sus brazos.</p>
+<p style="text-align: justify;">Mi polla no estaba totalmente dura pero estando como estaba aquel co&ntilde;o no dudaba que podr&iacute;a met&eacute;rsela sin demasiada dificultad. Le separ&eacute; un poco las piernas, la sujet&eacute; por la cadera con la mano izquierda y dirig&iacute; mi polla semi fl&aacute;cida con la derecha. Frot&eacute; la punta con la entrada de su co&ntilde;o y Mar&iacute;a comenz&oacute; a mover su cadera como buscando la penetraci&oacute;n ella sola... segu&iacute; frotando sobre la entrada mientras ella soltaba unos "ufff" tremendamente morbosos... hasta que su co&ntilde;o engull&oacute; mi polla con maestr&iacute;a y Mar&iacute;a agradeci&oacute; ser invadida con un gemido tremendo... a pesar de que solo se estaba metiendo mi peque&ntilde;a polla y adem&aacute;s bastante blanda... Comenz&oacute; a echarse atr&aacute;s y adelante con cuidado y despacio, sabiendo que si me sal&iacute;a podr&iacute;a costar volver a met&eacute;rsela...</p>
+<p style="text-align: justify;">Comenz&oacute; un mete saca lento y sentido y yo comenc&eacute; a sentir como mi polla se endurec&iacute;a en su interior, a pesar de que su co&ntilde;o se iba dilatando poco a poco. Llev&eacute; mis manos hacia adelante y acarici&eacute; sus tetas que colgaban enormes... su camis&oacute;n se le escurr&iacute;a hacia las axilas y ella manten&iacute;a su cabeza entre sus codos gimiendo suavemente, agradeciendo cada peque&ntilde;a metida con un jadeo o un suspiro tan puro que me pon&iacute;a los pelos de punta. Notaba su cuerpo muy caliente, mucho m&aacute;s que el m&iacute;o, su piel sudorosa y aquellos leves gemidos eran para volverse loco.</p>
+<p style="text-align: justify;">Mientras acariciaba sus tetas y me recreaba en la dureza de sus pezones le pregunt&eacute;:</p>
+<p style="text-align: justify;">-&iquest;Estaba guapo Edu hoy?</p>
+<p style="text-align: justify;">-Mmm... ahh... Dame as&iacute; Pablo... despacio y acar&iacute;ciamelas as&iacute;...</p>
+<p style="text-align: justify;">Mar&iacute;a estaba visiblemente borracha y yo ten&iacute;a que aprovechar:</p>
+<p style="text-align: justify;">-Vamos, Mar&iacute;a... &iquest;No &iacute;bamos a hablar de Edu?</p>
+<p style="text-align: justify;">-Ufff... s&iacute;... ufff... qu&eacute; gusto...</p>
+<p style="text-align: justify;">-&iquest;Estaba guapo Edu esta noche?</p>
+<p style="text-align: justify;">-Mmm... s&iacute;... estaba... bueno...</p>
+<p style="text-align: justify;">-&iquest;S&iacute;? &iquest;Est&aacute; bueno Edu?</p>
+<p style="text-align: justify;">-Mmm... s&iacute;... joder... est&aacute; bueno... Dame as&iacute;... dios... un poco m&aacute;s r&aacute;pido.</p>
+<p style="text-align: justify;">-&iquest;Y es por eso que hoy entra tan bien? &iquest;Porque has visto a Edu?</p>
+<p style="text-align: justify;">-Mmmm... m&aacute;s r&aacute;pido, Pablo... No... no s&eacute;... ten&iacute;a ganas hoy...</p>
+<p style="text-align: justify;">-&iquest;Seguro? -le dije embistiendo bastante m&aacute;s r&aacute;pido a lo que ella respondi&oacute; enterrando su cara en la almohada. -&iquest;Seguro que no est&aacute;s m&aacute;s abierta por verle? -insist&iacute; penetr&aacute;ndola con m&aacute;s fuerza y ella comenz&oacute; a enterrar gemidos que comenzaron a ser casi gritos en la almohada.</p>
+<p style="text-align: justify;">El polvo se hac&iacute;a cada vez m&aacute;s violento y el ruido de nuestros cuerpos chocar ya era casi un estruendo. Yo pregunt&aacute;ndole si estaba abierta por &eacute;l y ella chillando en la almohada... era tremenda la follada y tremendo el contraste con el polvo de hac&iacute;a dos d&iacute;as en el que no hab&iacute;amos hablado de Edu...</p>
+<p style="text-align: justify;">Llegu&eacute; a embestirla tan fuerte que ella se dej&oacute; caer hacia adelante. Mi pecho se peg&oacute; a su espalda. Su camis&oacute;n arrugado casi en su cuello, mi cuerpo cubriendo totalmente el suyo... y separ&eacute; sus piernas con las m&iacute;as para penetrarla mejor. Una penetraci&oacute;n que se hizo lenta en esa nueva postura. Mis manos fueron a sus tetas, cada mano recog&iacute;a uno de sus pechos enormes, y sent&iacute;a sus pezones en las palmas de mis manos. Notaba sus tetazas h&uacute;medas, algo sudadas... me encantaba sentirlas as&iacute;... pero no le confes&eacute; eso si no que le susurr&eacute; en el o&iacute;do:</p>
+<p style="text-align: justify;">-&iquest;Te imaginas que te folla &eacute;l? &iquest;As&iacute;? Tal cual estamos es &eacute;l el que te la est&aacute; metiendo...</p>
+<p style="text-align: justify;">-Mmm... dios...</p>
+<p style="text-align: justify;">-&iquest;C&oacute;mo ser&iacute;a...? cierra los ojos e imag&iacute;natelo... y dime como ser&iacute;a...-Quiz&aacute;s fuera mi imaginaci&oacute;n pero sent&iacute;a como su co&ntilde;o se fund&iacute;a cuando le dec&iacute;a eso...</p>
+<p style="text-align: justify;">-Mmm... me follar&iacute;a as&iacute; pero m&aacute;s fuerte... -alcanz&oacute; a susurrar, con la cara levantada hacia adelante, las piernas completamente abiertas y los ojos cerrados.</p>
+<p style="text-align: justify;">-&iquest;Y lo notarias m&aacute;s, no? Se que no te estas enterando... porque mi polla es la mitad que la suya...</p>
+<p style="text-align: justify;">-S&iacute;...</p>
+<p style="text-align: justify;">-&iquest;S&iacute; qu&eacute;?</p>
+<p style="text-align: justify;">-Que s&iacute;... jodeer... &iexcl;Mmm...! que la notar&iacute;a m&aacute;s...</p>
+<p style="text-align: justify;">-&iquest;Te imaginas que viene esta misma noche y te folla?</p>
+<p style="text-align: justify;">-Mmm... s&iacute;... dios...</p>
+<p style="text-align: justify;">-D&iacute;melo...</p>
+<p style="text-align: justify;">-&iexcl;Joder...! &iexcl;Viene esta noche y me folla! &iexcl;Me folla as&iacute;!</p>
+<p style="text-align: justify;">-Te lo digo en serio, Mar&iacute;a, escr&iacute;bele, dile que venga...</p>
+<p style="text-align: justify;">Yo ni sab&iacute;a lo que dec&iacute;a. O s&iacute; lo sab&iacute;a. Me hab&iacute;a salido as&iacute; y no lo quer&iacute;a parar.</p>
+<p style="text-align: justify;">-Est&aacute;s loco... -susurr&oacute;. Y por su tono deduje que no me estaba tomando en serio.</p>
+<p style="text-align: justify;">-&iquest;Por qu&eacute;? -insist&iacute;- Viene... media hora, una hora... Te folla. Y se va. Sin hablar. Sin l&iacute;os... Te folla... Yo miro. &Eacute;l se va. El lunes en el despacho como si no hubiera pasado nada.</p>
+<p style="text-align: justify;">Es imposible describir lo que me sub&iacute;a por el cuerpo al pensar que podr&iacute;a pasar. Que no est&aacute;bamos tan lejos. Que est&aacute;bamos a un "s&iacute;" o un "vale" de culminar todo aquello. Adem&aacute;s proponi&eacute;ndoselo as&iacute;, con mi polla invadi&eacute;ndola, con mi cuerpo aplast&aacute;ndola... Con mis manos en sus tetas y mis palabras en su o&iacute;do, lamiendo y mordiendo un cuello y una oreja donde ella recib&iacute;a la humedad de mis besos y el impacto de mis palabras. Sus respuestas eran gemidos, jadeos... movimientos de cadera para sentir m&aacute;s mi polla, y sus manos agarradas al borde superior de la cama.</p>
+<p style="text-align: justify;">-Vamos... Mar&iacute;a... resp&oacute;ndeme... -le dec&iacute;a sin dejar de penetrarla r&iacute;tmicamente.</p>
+<p style="text-align: justify;">-Est&aacute;s loco... Ummm... dios...</p>
+<p style="text-align: justify;">-Viene, te folla, y se va... y sin comeduras de olla... Solo sexo...</p>
+<p style="text-align: justify;">-Mmm... est&aacute;s loco Pablo... -gimote&oacute; ella llevando una de sus manos a mi cabeza incit&aacute;ndome a que le mordiera m&aacute;s el cuello.</p>
+<p style="text-align: justify;">Mir&eacute; a un lado y vi el m&oacute;vil de Mar&iacute;a sobre la mesilla. Sin dejar de penetrarla al mismo ritmo lo cog&iacute; y, para mi sorpresa, Edu le hab&iacute;a escrito. Se lo dije inmediatamente y, retir&aacute;ndome un poco, pero sin salirme de ella, se lo di.</p>
+<p style="text-align: justify;">Pens&eacute; que en semejante situaci&oacute;n no tendr&iacute;a curiosidad por mirar el m&oacute;vil, pero todo lo contrario. Con mis penetraciones m&aacute;s lentas ella volvi&oacute; en s&iacute;, desbloque&oacute; el tel&eacute;fono medio de lado y mir&oacute; la pantalla, como tambi&eacute;n hice yo.</p>
+<p style="text-align: justify;">Edu Despacho: "Estais por ahi?"</p>
+<p style="text-align: justify;">Sin tiempo a que yo le propusiera nada ella escribi&oacute;:</p>
+<p style="text-align: justify;">"No"</p>
+<p style="text-align: justify;">Era tremendamente morboso seguir dentro de ella, aunque ahora casi sin movernos, mientras se escrib&iacute;a con &eacute;l.</p>
+<p style="text-align: justify;">"Una pena, a la nueva se la ve&iacute;a con ganas". Respondi&oacute; &eacute;l.</p>
+<p style="text-align: justify;">Tras ver esa respuesta volv&iacute; a colocarme totalmente sobre ella y la embest&iacute; hasta el fondo de una sola metida. Ella gimi&oacute; y apart&oacute; la vista del m&oacute;vil al sentir como mi polla, de nuevo, llegaba lo m&aacute;s profundo que pod&iacute;a.</p>
+<p style="text-align: justify;">-D&iacute;selo -le susurr&eacute; en esa oreja ya enrojecida.</p>
+<p style="text-align: justify;">-Mmm... &iquest;El qu&eacute;?</p>
+<p style="text-align: justify;">-Que venga.</p>
+<p style="text-align: justify;">Ella no respondi&oacute; y yo llev&eacute; una de mis manos a su melena y el otro a su cl&iacute;toris... comenc&eacute; otra vez a penetrarla m&aacute;s r&aacute;pido a la vez que acariciaba la c&uacute;spide de su co&ntilde;o...</p>
+<p style="text-align: justify;">-Ufff... Pablo...</p>
+<p style="text-align: justify;">-Qu&eacute;...</p>
+<p style="text-align: justify;">-As&iacute;... joder...</p>
+<p style="text-align: justify;">-Qu&eacute;...</p>
+<p style="text-align: justify;">-Mmm... qu&eacute; bien me follas...</p>
+<p style="text-align: justify;">-Dile que venga...</p>
+<p style="text-align: justify;">-Mmm... est&aacute;s loco... No s&eacute;...</p>
+<p style="text-align: justify;">-Solo sexo Mar&iacute;a. Est&aacute; bueno. Te pone, joder... Viene... te folla y se va...</p>
+<p style="text-align: justify;">Me incorpor&eacute; un poco de nuevo, hasta apoyar mis manos en la cama. Mi coraz&oacute;n palpitaba a mil. Sent&iacute;a que estaba tremendamente cerca.</p>
+<p style="text-align: justify;">-Vamos, Mar&iacute;a.</p>
+<p style="text-align: justify;">Segu&iacute;a penetr&aacute;ndola, ahora m&aacute;s lentamente. Hab&iacute;a apartado mi pecho de su espalda. Le dejaba su espacio. Ella cogi&oacute; el m&oacute;vil... y yo cre&iacute;a que me daba un infarto. Edu no le hab&iacute;a escrito m&aacute;s.</p>
+<p style="text-align: justify;">-Vamos Mar&iacute;a... solo follar... -le dije de nuevo inclin&aacute;ndome sobre su o&iacute;do.</p>
+<p style="text-align: justify;">Ella pos&oacute; sus dedos sobre el teclado. Yo cre&iacute;a que me mor&iacute;a. Ten&iacute;a de nuevo mi pecho en su espalda y sent&iacute;a que ella ten&iacute;a que notar mi coraz&oacute;n palpitar como si fuera el suyo.</p>
+<p style="text-align: justify;">Comenz&oacute; a teclear:</p>
+<p style="text-align: justify;">-Ven a mi casa.</p>
+<p style="text-align: justify;">Al ver eso escrito mi polla se puso m&aacute;s dura que nunca. La sent&iacute; crecer y casi explotar en su interior... Aceler&eacute; un poco el ritmo, para hacerla sentir m&aacute;s, para que no escapara de aquel cl&iacute;max de lujuria en el que nos encontr&aacute;bamos. Su m&oacute;vil se ilumin&oacute;.</p>
+<p style="text-align: justify;">Edu despacho: "&iquest;Y tu novio?"</p>
+<p style="text-align: justify;">-Dile que me da igual. -dije inmediatamente.</p>
+<p style="text-align: justify;">"Le da igual". Tecle&oacute; Mar&iacute;a.</p>
+<p style="text-align: justify;">Instintivamente mi boca fue a su cuello y le mord&iacute; con algo de fuerza. Estaba fuera de m&iacute;. Despu&eacute;s mi mano que estaba en su pel&oacute; tir&oacute; con fuerza de su melena y la embest&iacute; de forma brutal. Y cuando cre&iacute;a que estaba siendo demasiado violento ella llev&oacute; una de sus manos a mi culo y lo apret&oacute; una de mis nalgas con fuerza, haciendo incluso que la penetrara m&aacute;s fuerte...</p>
+<p style="text-align: justify;">-Va a venir... va a venir y te va a follar... -le gem&iacute; en el o&iacute;do.</p>
+<p style="text-align: justify;">-Mmm... mu&eacute;rdeme... mu&eacute;rdeme el cuello... hazme da&ntilde;o... -me rog&oacute; Mar&iacute;a con los ojos cerrados, totalmente entregada, casi desconocida para m&iacute;.</p>
+<p style="text-align: justify;">-&iquest;S&iacute;? -le dije tirandole aun m&aacute;s del pelo al tiempo que se la clavaba hasta el fondo otra vez hasta que ella grit&oacute;.</p>
+<p style="text-align: justify;">-Auuu... &iexcl;S&iacute;ii...! &iexcl;Joder...!</p>
+<p style="text-align: justify;">-Esto es real Mar&iacute;a... te va a follar... -le dije e inmediatamente me di cuenta de que su m&oacute;vil se hab&iacute;a encendido. Era Edu pidi&eacute;ndole la direcci&oacute;n.</p>
+<p style="text-align: justify;">Mar&iacute;a lo vio y dej&oacute; el m&oacute;vil sobre la cama otra vez.</p>
+<p style="text-align: justify;">-Vamos Mar&iacute;a, ponle la direcci&oacute;n- le susurr&eacute; sin dejar de penetrarla y sin dejar que cerrara las piernas ni un cent&iacute;metro, haciendo hasta casi fuerza para que las tuviera casi todo lo abiertas que pod&iacute;a.</p>
+<p style="text-align: justify;">-No s&eacute; Pablo... es una locura.</p>
+<p style="text-align: justify;">-Vamos p&oacute;nsela... Si timbra y al final no quieres no le abrimos y que se joda.</p>
+<p style="text-align: justify;">-Uff... no s&eacute;...</p>
+<p style="text-align: justify;">-Vamos... Mar&iacute;a.</p>
+<p style="text-align: justify;">Finalmente Mar&iacute;a le escribi&oacute; la direcci&oacute;n, con una mano, tremendamente temblorosa. Mientras yo le mord&iacute;a el cuello y la segu&iacute;a ensartando sin parar con todo mi cuerpo sobre ella.</p>
+<p style="text-align: justify;">En mi cabeza no paraba de resonar "Va a venir", "Va a venir y se la va a follar aqu&iacute;". Y el morbo era tan inmenso como una sensaci&oacute;n de incredulidad, como si fuera demasiado bueno como para ser cierto, como cuando ans&iacute;as tanto algo que crees que en cualquier momento se va a torcer. Mis embestidas se hicieron m&aacute;s suaves y mi mano abandon&oacute; su cl&iacute;toris... llev&aacute;bamos como una hora follando... Ella se dio la vuelta y en misionero comenzamos un polvo m&aacute;s lento y sentido, m&aacute;s silencioso, y yo gracias a aquel silencio me parec&iacute;a escuchar todo del edificio, hasta el sonido del ascensor, como ansiando ese timbrazo que har&iacute;a que se me saliera el coraz&oacute;n del pecho.</p>
+<p style="text-align: justify;">Follar, as&iacute;, lentamente, con la tensi&oacute;n de la llegada de Edu en cualquier momento era tan alucinante como insoportable y lo not&eacute; en Mar&iacute;a. Se dejaba follar pero ahora un poco m&aacute;s ausente. No sab&iacute;a donde poner las manos como si no tuviera confianza conmigo. Sus manos iban de mi culo a su cabeza... o se colocaba el camis&oacute;n como con rubor como si fuera el polvo de una noche. La conoc&iacute;a y pod&iacute;a sentir sus nervios en aumento a medida que disminu&iacute;a su borrachera... Pasaban los minutos y no ven&iacute;a.</p>
+<p style="text-align: justify;">Cambiamos de postura otra vez y ella se puso de lado. En cuchara. Yo coloqu&eacute; mi miembro de nuevo en la entrada de su co&ntilde;o y entr&oacute; como si nada. Yo a penas notaba ya nada y ella no ten&iacute;a que notar pr&aacute;cticamente nada con lo abierta que estaba y el tama&ntilde;o de mi polla. Nuestros gritos hab&iacute;an pasado a gemidos y despu&eacute;s a suspiros y as&iacute;, en aquella postura, apenas era una respiraci&oacute;n agitada de ambos. Sus nervios no desaparec&iacute;an, le temblaban las manos cuando me acariciaba la cara y acab&eacute; por sujet&aacute;rselas y abrazarla y hacer un mete saca lent&iacute;simo, sin apenas movernos.</p>
+<p style="text-align: justify;">Los minutos segu&iacute;an pasando y yo no entend&iacute;a qu&eacute; pasaba. El m&oacute;vil de Mar&iacute;a no se iluminaba. Pasaron m&aacute;s minutos y me sal&iacute; de ella. Mi polla abandon&oacute; su cuerpo y cay&oacute; fl&aacute;cida sobre sus muslos. Ninguno de los dos se hab&iacute;a corrido, pero mi polla sali&oacute; de su interior enrojecida y chorreando por haber estado casi dos horas dentro de ella... Pero no retir&eacute; mi abrazo. La bes&eacute; en la cara, en la nuca, en la espalda. Le dije que la quer&iacute;a y nos quedamos en el m&aacute;s absoluto silencio.</p>
+<p style="text-align: justify;">Edu no vino. No apareci&oacute; ni dio se&ntilde;ales. Lo supe cuando me despert&eacute;, al d&iacute;a siguiente, iluminado por la luz que entraba por la ventana. Mar&iacute;a debi&oacute; de notar inmediatamente que me hab&iacute;a despertado y dijo claramente: "Si hubiera timbrado no le habr&iacute;a abierto. &iquest;Lo sabes, no?</p>
+<p style="text-align: justify;">Lo nuestro es de locos, de verdad".</p>
+<p style="text-align: justify;">Su tono no era de enfado, si no bastante distendido.</p>
+<p style="text-align: justify;">-Me voy a la ducha. -dijo saliendo de la cama.</p>
+<p style="text-align: justify;">-&iquest;Resaca? -le pregunt&eacute;.</p>
+<p style="text-align: justify;">-Con la sudada que me pegu&eacute;... creo que he sudado todo el alcohol -dijo perdi&eacute;ndose por el pasillo.</p>
+<p style="text-align: justify;">Escuch&eacute; el sonido de la ducha y me vi tremendamente empalmado. No daba cr&eacute;dito a lo cerca que hab&iacute;amos estado. &iquest;De verdad no le habr&iacute;a abierto la puerta? &iquest;Tan borracha estaba para acceder a que viniera Edu? &iquest;C&oacute;mo Edu podr&iacute;a haber sido tan gilipollas de no venir? Cuando me quise dar cuenta me estaba masturbando, pensando en "qu&eacute; hubiera pasado s&iacute;". Qu&eacute; hubiera pasado si Edu hubiera venido. C&oacute;mo se la habr&iacute;a follado... Me imaginaba que timbraba y Mar&iacute;a le abr&iacute;a la puerta y ya se enrollaban en el sof&aacute;, y se la follaba all&iacute; y yo lo ve&iacute;a todo. Y despu&eacute;s se la follaba en nuestra cama mientras Mar&iacute;a a ratos me miraba y a ratos se entregaba a &eacute;l... Tan ensimismado estaba con aquellos pensamientos que no me di cuenta que Mar&iacute;a terminaba su ducha y entraba en el dormitorio con una toalla. Me mir&oacute;. La mir&eacute;. Estaba a punto de correrme. Y no par&eacute;. Su pelo empapado la hac&iacute;a aun m&aacute;s er&oacute;tica, m&aacute;s sexual... me imagin&eacute; que Edu adem&aacute;s de follarla en el sof&aacute; y en la cama tambi&eacute;n lo hac&iacute;a en la ducha y yo escuchaba sus gritos desde la cama y comenc&eacute; a eyacular sobre mi vientre y mi pecho mientras Mar&iacute;a me miraba fijamente sin mostrar demasiada sorpresa... Derram&eacute; los primeros chorros de mi corrida sobre mi cuerpo intentando mantenerle la mirada hasta que no fui capaz y cerr&eacute; los ojos... echando los &uacute;ltimos latigazos de semen caliente con los ojos cerrados, disfrutando del final de mi orgasmo casi en silencio y la cabeza sobre la almohada. Se hizo el absoluto silencio y me olvid&eacute; de la existencia de Mar&iacute;a hasta que lleg&oacute; con un rollo de papel higi&eacute;nico que lanz&oacute; sobre la cama.</p>
+<p style="text-align: justify;">-Toma. Guarro... -dijo casi ri&eacute;ndose.</p>
+<p style="text-align: justify;">Abr&iacute; los ojos. Se hab&iacute;a puesto una camiseta de tiras amarilla y segu&iacute;a con el pelo empapado. Estaba guap&iacute;sima. Espectacular. Y con una media sonrisa dulce como hac&iacute;a tiempo no le ve&iacute;a.</p>
+<p style="text-align: justify;">-Guarro... pero me quieres as&iacute; &iquest;no? -le dije.</p>
+<p style="text-align: justify;">-Te quiero m&aacute;s. -respondi&oacute; antes de ir hacia el cuarto de ba&ntilde;o a secarse el pelo.</p>
+<!--email_off--><!--/email_off--><!--/email_off-->
+</div>
+                    </td>
+                  </tr>
+                </table>
+                </center>
+            </div>
+<a name="valorar"></a>
+
+<!-- relatoad_footer -->
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber24">
+    <tr>
+<TD bgColor=#fffece width="100%" align="right" class=head_f1 nowrap><b><a target="_blank" href="/redir.php?t=contactos.relato">Ver Perfiles de CHICAS que les ha gustado este relato</a></b></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<br />
+<div align="center">
+  <center>
+<table class=tabla-news1 border="0" cellpadding="5" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1"><tr><td style="border-bottom:4px solid #cccccc; border-top:3px solid #cccccc; background-color:#FF0"><a target="_blank" href="/redir.php?t=comunidad"><img border="0" src="/images/comunidad_0.png" width="87" height="79"></a></td>
+<td width="100%" style="border-bottom:4px solid #cccccc; border-top:3px solid #cccccc; background-color:#FFC"><font size=4><strong>Comunidad de Autores y Lectores de TodoRelatos</strong></font><br>Chatea online con webcams!<br>
+<br>
+<a target="_blank" href="/redir.php?t=comunidad"><font size=4><strong>comunidad.todorelatos.com</strong></font></a>
+</td></tr>
+</table>
+
+<br />
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber24">
+<!-- aff -->
+
+  <TR bgColor=#4e5a78>
+    <TD align=center bgColor=#FFFFFF style="border-right:1px solid #666666; border-left:1px solid #666666; border-top:1px solid #666666; border-bottom:1px solid #666666;">
+    <span class=desc1>
+<center>
+<iframe src="https://comunidad.todorelatos.com/freecam/embed?a_mute=1&forcehls=1" width="100%" height="550px" frameborder="0"></iframe>
+</center>
+    </span></TD>
+    </TR>
+    <!-- /aff -->
+</table>
+<br />
+  </center>
+</div>
+<br />
+
+<div align="center">
+  <center>
+  <table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber24">
+    <tr>
+    <TD bgColor=#f7f7f7 width="15%" align="left" class=head1 nowrap>
+    	<!-- <iframe src="http://www.facebook.com/plugins/like.php?href=https%3A%2F%2Fwww.todorelatos.com%2Frelato%2F136379%2F&amp;layout=standard&amp;show_faces=false&amp;width=400&amp;action=like&amp;font&amp;colorscheme=light&amp;height=22" scrolling="no" frameborder="0" style="border:none; overflow:hidden; width:400px; height:22px;" allowTransparency="true"></iframe>-->
+
+
+<div align=left class="fb-like" data-send="false" data-layout="button_count" data-width="120" data-show-faces="false" data-action="recommend"></div></td>
+<TD bgColor=#f7f7f7 width="15%" align="center" class=head1 nowrap>
+<span align=right><a href="https://twitter.com/share" class="twitter-share-button" data-via="todorelatos" data-lang="es" data-count="none">Twittear</a></td><TD bgColor=#f7f7f7 width="15%" align="center" class=head1 nowrap>
+<script>!function(d,s,id){var js,fjs=d.getElementsByTagName(s)[0];if(!d.getElementById(id)){js=d.createElement(s);js.id=id;js.src="//platform.twitter.com/widgets.js";fjs.parentNode.insertBefore(js,fjs);}}(document,"script","twitter-wjs");</script><g:plusone size="medium" annotation="none"></g:plusone></span>
+</TD>
+    <TD bgColor=#f7f7f7 width="70%" align="right" class=head1>© <b><a href=/perfil/1452591/>Tanatos12</a></b><SCRIPT TYPE="text/javascript">
+<!--
+emailE=('tanatos130' + '@hotmail.com')
+document.write('<img border=0 src=/images/tricon_miniemail.gif hspace=4 width=15 height=11>(<b><A href="mailto:' + emailE + '">' + emailE + '</a></b>)')
+//-->
+</script></TD>
+    </tr>
+  </table>
+  </center>
+</div>
+
+<p>
+<table class=tabla-news1-texto cellSpacing="0" cellPadding="6" bgColor="#7f7f7f" border="0" width=100% style="border-collapse: collapse" bordercolor="#111111">
+<tr>
+  <td class=logdes width="100%" colspan="2" align="center" bgcolor="#FEF5F5">
+<font color="#808080">
+<b>Valore</b> y <b>Comente</b> los relatos que lee, los autores lo agradecerán y
+supondrá una mejora en la calidad general de la web.</font></td>
+  </tr>
+<tr><td class=bottom1 bgColor=#F8F8F8 valign="top" width="80%" align="left">
+<table class=tabla-news1-texto border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" id="AutoNumber3">
+      <tr>
+        <td><a href="/comentarios/136379/"><img border="0" src="/images/tricon_rate.gif" width="32" height="32"></a></td>
+        <td align="left">&nbsp;<a href="/comentarios/136379/">Comentarios sobre este Relato (<b>24</b>)</a></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+        <img border="0" src="/images/clear.gif" width="8" height="8"></td>
+        </tr>
+       <tr>
+        <td><a href=/perfil/1452591/>
+        <img border=0 src=/images/tricon_autor.gif alt=\"Ver hspace=0 width=32 height=32></a></td>
+        <td>&nbsp;<a href="/perfil/1452591/">Perfil y más Relatos de <b>Tanatos12</b></a></td>
+      </tr>
+
+      <tr>
+        <td colspan="2">
+        <img border="0" src="/images/clear.gif" width="8" height="8"></td>
+        </tr>
+      <tr>
+        <td><a rel="nofollow" href="/relato.favorito.php?id=136379"><img border="0" src="/images/tricon_top.gif" width="32" height="32"></a></td>
+        <td align="left">&nbsp;<a rel="nofollow" href="/relato.favorito.php?id=136379">Añadir a Lista de Favoritos</a></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+        <img border="0" src="/images/clear.gif" width="8" height="8"></td>
+        </tr>
+      <tr>
+        <td><a rel="nofollow" href="/reportar.relato.php?id=136379"><img border="0" src="/images/tricon_info.gif" width="32" height="32"></a></td>
+        <td align="left">&nbsp;<a rel="nofollow" href="/reportar.relato.php?id=136379">Reportar Relato</a></td>
+      </tr>
+      <tr>
+        <td colspan="2">
+        <img border="0" src="/images/clear.gif" width="8" height="8"></td>
+        </tr>
+    </table>
+  </td>
+  <td class=bottom2 bgColor=#F8F8F8 align=left width="20%">
+<!-- menu valoracion -->
+<div>
+<SCRIPT language="JavaScript">
+<!--
+var sdsubmit=1
+function valcheck(){
+
+if (sdsubmit){
+
+if ( (!(document.valorar.valor[0].checked || document.valorar.valor[1].checked || document.valorar.valor[2].checked || document.valorar.valor[3].checked || document.valorar.valor[4].checked)) )   {
+    mesg1 = "Debe seleccionar una valoración para el relato.";
+	alert(mesg1);
+	return false;
+   }
+
+	document.valorar.sbutton.value = "Procesando..."
+	document.valorar.sbutton.disabled = true
+	document.valorar.sbutton.blur()
+	sdsubmit=0
+
+}
+else {return false}
+
+}
+//-->
+</script>
+<form action="/valorar.relato.php" method="post" onSubmit="return valcheck()" name=valorar>
+	<table class=tabla-news1-texto cellpadding="6" cellspacing="0" border="1" bordercolorlight="#808080" bordercolordark="#808080">
+	<tr>
+		<td bgcolor="#FFFFFB">
+		<table class=tabla-news1-texto cellpadding="2" cellspacing="0" border="0">
+		<tr>
+			<td nowrap><label for="vote5"><input type="radio" name="valor" id="vote5" value="5"  />Excelente</label></td>
+			<td valign="bottom">&nbsp;<img src="/images/rating/rating_5.gif" alt="Excelente" width="55" height="12" /></td>
+		</tr>
+		<tr>
+			<td nowrap><label for="vote4"><input type="radio" name="valor" id="vote4" value="4"  />Bueno</label></td>
+			<td valign="bottom">&nbsp;<img src="/images/rating/rating_4.gif" alt="Bueno" width="55" height="12" /></td>
+		</tr>
+		<tr>
+			<td nowrap><label for="vote3"><input type="radio" name="valor" id="vote3" value="3"  />Normal</label></td>
+			<td valign="bottom">&nbsp;<img src="/images/rating/rating_3.gif" alt="Normal" width="55" height="12" /></td>
+		</tr>
+		<tr>
+			<td nowrap><label for="vote2"><input type="radio" name="valor" id="vote2" value="2"  />Malo</label></td>
+			<td valign="bottom">&nbsp;<img src="/images/rating/rating_2.gif" alt="Malo" width="55" height="12" /></td>
+		</tr>
+		<tr>
+			<td nowrap><label for="vote1"><input type="radio" name="valor" id="vote1" value="1"  />Terrible</label></td>
+			<td valign="bottom">&nbsp;<img src="/images/rating/rating_1.gif" alt="Terrible" width="55" height="12" /></td>
+		</tr>
+		</table>
+		</td>
+	</tr>
+	<tr>
+		<td align="center">
+			<input type="hidden" name="id" value="136379" />
+			<input type="hidden" name="ts" value="1525260911" />
+			<input type="submit" class="boton" value="   Valorar Relato   " name="sbutton" />
+		</td>
+	</tr>
+
+	</table>
+</form>
+</div>
+<!-- / menu valoracion -->
+</td>
+  </tr>
+</table>
+
+<div align="center">
+  <center>
+  <table class=tabla-news1-texto border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+    <tr>
+      <td width="100%">
+      <img border="0" src="/images/clear.gif" width="1" height="8"></td>
+    </tr>
+  </table>
+  </center>
+</div>
+<table class=tabla-news1-texto cellSpacing="1" cellPadding="4" bgColor="#7f7f7f" border="0" width=100%>
+<tr><td bgColor=#E1E1E1 width="70%" align="left">
+  <a href="javascript:history.go(-1)">
+  « VOLVER A LA PAGINA ANTERIOR</a></td>
+  <td align=center bgColor=#E1E1E1 width="30%">
+  <a href="#top">IR ARRIBA&nbsp;&nbsp;&#9650;</a></td></tr>
+</table>
+
+<!--/RELATO-->
+</TD></TR>
+
+</TBODY></TABLE></CENTER></DIV>
+<!--/RELATOS-->
+
+<!--/CLOSE--></TD></TR></TBODY></TABLE></TD></TR></TBODY></TABLE></CENTER></DIV>
+
+<!--/CENTRO-->
+<!-- fb -->
+<div id="fb-root"></div>
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/es_ES/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);
+}(document, 'script', 'facebook-jssdk'));</script>
+<!-- /fb --><TR>
+          <TD class=maintable2>&nbsp;</TD>
+</TR>
+</TBODY></TABLE></CENTER></DIV></TD>
+    <TD class=table-border width=1><IMG height=1
+      src="/images/clear.gif"
+      width=1></TD></TR>
+  <TR>
+    <TD class=table-border colSpan=2 height=1 align="center"><IMG height=1 src="/images/clear.gif" width=1></TD></TR>
+    </TBODY>
+    </TABLE>
+<DIV><IMG height=8 src="/images/clear.gif" width=1></DIV>
+
+<div align="center">
+<TABLE class=maintable cellSpacing=0 cellPadding=0 width=960 border=0 style="border-collapse: collapse" bordercolor="#111111" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0">
+  <TBODY>
+  <TR>
+    <TD align=center width="100%">
+
+<div align="center">
+<TABLE class=tabla-news1 cellSpacing=0 cellPadding=6 border=0 style="border-collapse: collapse" bordercolor="#111111" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" bgcolor="#808080" width="100%">
+
+  <TR bgColor=#4e5a78>
+    <TD align=center bgColor=#FFFFFF style="border-right:1px solid #666666; border-left:1px solid #666666; border-top:1px solid #666666; border-bottom:1px solid #666666;" colspan="3">
+    <span class=desc1>
+<a target="_blank" href="https://www.ashleymadison.com/embrace/A18899"><img src="/images/ashley_07252013.gif" alt="Ashley Madison - Ten una aventura. Infidelidad."/></a>
+    </span></TD>
+    </TR>
+
+</TABLE>
+</div>
+
+<!-- Link -->
+<!--
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="100%"><IMG height=8 src="/images/clear.gif" width=1></TD></TR></td>
+  </tr>
+</table>
+
+<div align="center">
+<TABLE class=tabla-news1 cellSpacing=0 cellPadding=6 border=1 style="border-collapse: collapse" bordercolor="#111111" bordercolorlight="#C0C0C0" bordercolordark="#C0C0C0" bgcolor="#808080" width="100%">
+
+  <tr>
+    <td bgcolor="#ffffff" width="100%" align="center"><a target="_blank" href="https://www.videochaterotico.com/?login=todorelatos"><strong>VideoChat Erotico</strong></a>&nbsp;<img style="margin-left:3px; margin-right:3px;" src="//www.todorelatos.com/imgindex/videochaterotico.png" width="16" height="16" hspace="4"></TD></TR></td>
+  </tr>
+
+</TABLE>
+</div>
+-->
+<!-- /Link -->
+
+    </TD>
+    </TR></TBODY></TABLE>
+</div>
+
+
+
+<table border="0" cellpadding="0" cellspacing="0" style="border-collapse: collapse" bordercolor="#111111" width="100%" id="AutoNumber1">
+  <tr>
+    <td width="100%"><IMG height=8 src="/images/clear.gif" width=1></TD></TR></td>
+  </tr>
+</table>
+
+
+<TABLE style="BORDER-COLLAPSE: collapse" borderColor=#111111 cellSpacing=0
+cellPadding=0 width="100%" border=0>
+  <TBODY>
+  <TR>
+    <TD align=middle width="100%" bgColor=#666666 height=32>
+      <DIV align=center class=bright><SPAN class=smaller>LWNET 1999-2018 | TodoRelatos.com v3.80<BR>
+        <a rel="nofollow" class="blight-link" href="/legal/">Info Legal / Privacidad / Cookies</a> · <a class="blight-link" href="/ayuda/">Ayuda</a> · <a class="blight-link" href="/info/">Stats</a> ·
+        <a class="blight-link" href="/enlaces/">Enlaces</a> ·
+        <a rel="nofollow" class="blight-link" href="/contacto/">Contacto</a>  ·
+        <a class="blight-link" href="/sponsors/">Webmasters (Sponsors Favoritos)</a></SPAN></DIV></TD></TR></TBODY></TABLE></DIV>
+</center>
+<br /><br />
+<script type="text/javascript">
+  window.___gcfg = {lang: 'es'};
+
+  (function() {
+    var po = document.createElement('script'); po.type = 'text/javascript'; po.async = true;
+    po.src = 'https://apis.google.com/js/plusone.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(po, s);
+  })();
+</script>
+</BODY></HTML>
