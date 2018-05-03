@@ -9,7 +9,7 @@ import re
 import html as htmlMod
 
 
-engine = create_engine('sqlite:///webs.db', echo=True, connect_args={'check_same_thread':False})
+engine = create_engine('sqlite:///webs.db', echo=False, connect_args={'check_same_thread':False})
 Base = declarative_base()
 Session = sessionmaker(bind = engine)
 session =Session()
@@ -28,6 +28,7 @@ class Pagina(Base):
     id_autor = Column(String,nullable=False,default='')
     valoracionMedia = Column(String,nullable=False,default='')
     id_categoria = Column(String,nullable=False,default='')
+    tamanio = Column(Integer, nullable=False,default=0)
 
 class Autor(Base):
     __tablename__ = 'Autores'
@@ -47,16 +48,18 @@ if __name__ == "__main__":
         ultima_pagina = Pagina(id_pagina = 1)
 
 
-    for id in range(1,50):
+    for id in range(1,5000):
         id = ultima_pagina.id_pagina+id
-        print('https://www.'+all+stry+chr(115)+'.com/'+stry+'/'+str(id))
+        print(str(id))
         req = Request('https://www.'+all+stry+chr(115)+'.com/'+stry+'/'+str(id),
             headers={'User-Agent': 'Mozilla/5.0'})
         try:
-            htmlb = urlopen(req)
-            html = htmlb.read().decode('cp1252')
+            site = urlopen(req)
+            html = site.read().decode('cp1252')
         except HTTPError:
             continue
+
+
 
         # f = open('file2.txt','r')
         # line = f.readline()
@@ -69,7 +72,7 @@ if __name__ == "__main__":
         m = p.search(html)
         titulo = m.group(1)
         # print(m.group(1))
-        p = re.compile('class=autor><b><a href=/perfil/(\d+)/>([a-zA-Z0-9_ \(\):]*)', re.DOTALL)
+        p = re.compile('class=autor><b><a href=/perfil/(\d+)/>([^<]*)', re.DOTALL)
         m = p.search(html)
         if m:
             id_autor = m.group(1)
@@ -80,7 +83,7 @@ if __name__ == "__main__":
 
         # print(m.group(1))
         # print(m.group(2))
-        p = re.compile('<a href=/categorias/(\d+)/>([a-zA-Z0-9_ \(\):]*)', re.DOTALL)
+        p = re.compile('<a href=/categorias/(\d+)/>([^<]*)', re.DOTALL)
         m = p.search(html)
         id_categoria = m.group(1)
         nombre_categoria = m.group(2)
@@ -98,7 +101,7 @@ if __name__ == "__main__":
             s = s.replace("\t", " ")
             s = s.replace("\n", " ")
             texto = texto+'\n'+s
-        print(texto)
+        # print(texto)
         # help(Session)
         pagina = session.query(Pagina).get(id)
         if not pagina:
@@ -112,8 +115,9 @@ if __name__ == "__main__":
             if not categoria:
                 categoria = Categoria(id_categoria = id_categoria, nombre_categoria = nombre_categoria)
                 session.add(categoria)
-            pagina = Pagina(id_pagina = id, id_autor = id_autor, id_categoria = id_categoria, texto = texto, titulo = titulo)
+            pagina = Pagina(id_pagina = id, id_autor = id_autor, id_categoria = id_categoria, texto = texto, titulo = titulo, tamanio =  str(len(html)))
             session.add(pagina)
             session.commit()
+            #'''select sum(tamanio)/(1024*1024) from Paginas'''
 
 
