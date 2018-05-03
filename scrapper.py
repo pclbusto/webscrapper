@@ -1,5 +1,5 @@
 from pygame.draw import line
-from sqlalchemy import create_engine, Column, Integer, String
+from sqlalchemy import create_engine, Column, Integer, String, desc
 from sqlalchemy.ext.declarative import declarative_base
 from sqlalchemy.orm import sessionmaker
 from urllib.request import urlopen, Request
@@ -42,10 +42,13 @@ class Categoria(Base):
 if __name__ == "__main__":
 
     recreateTablesAll()
-    # print(Session)
-    # 136379
-    # id = 136379
-    for id in range(40,50):
+    ultima_pagina = session.query(Pagina).order_by(desc(Pagina.id_pagina)).first()
+    if not ultima_pagina:
+        ultima_pagina = Pagina(id_pagina = 1)
+
+
+    for id in range(1,50):
+        id = ultima_pagina.id_pagina+id
         print('https://www.'+all+stry+chr(115)+'.com/'+stry+'/'+str(id))
         req = Request('https://www.'+all+stry+chr(115)+'.com/'+stry+'/'+str(id),
             headers={'User-Agent': 'Mozilla/5.0'})
@@ -90,6 +93,10 @@ if __name__ == "__main__":
         texto = ''
         for i in m:
             s = htmlMod.unescape(i)
+            # Sacamos nuevas lineas por si existen
+            s = s.replace("\r", " ")
+            s = s.replace("\t", " ")
+            s = s.replace("\n", " ")
             texto = texto+'\n'+s
         print(texto)
         # help(Session)
